@@ -46,7 +46,7 @@ class Sales extends Order {
     }
 }
 
-class MK {
+class AU {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         System.out.print("\nEnter the number of purchase and sales orders: ");
